@@ -214,7 +214,7 @@ This repository is released under the **Piñata Digital Marketing, Inc. DACR Lic
 * **Confidentiality:** No public disclosure of proprietary systems (e.g., **QNDMBS™**) without written consent.
 * **Restrictions:** Commercial use outside Piñata subsidiaries or approved partners is prohibited.
 
-> See **`LICENSE-DACR.md`** in the repo root for the full legal text and contact details ([legal@pinatadigital.com](mailto:legal@pinatadigital.com)).
+> See **`LICENSE-DACR.md`** in the repo root for the full legal text and contact details ([legal@pinatadigital.com](mailto:support@pinatadigital.com)).
 
 ---
 
