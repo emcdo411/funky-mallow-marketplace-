@@ -1,0 +1,28 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+*.unitypackage
+ECHO is on.
+# Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+ECHO is on.
+# Node/React Native / Mobile
+node_modules/
+ios/Pods/
+android/.gradle/
+android/app/build/
+*.keystore
+ECHO is on.
+# Python
+__pycache__/
+.venv/
+ECHO is on.
+# General
+.DS_Store
+.idea/
+.vscode/
