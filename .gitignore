@@ -1,0 +1,28 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+*.unitypackage
+
+# Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Node / React Native / Mobile
+node_modules/
+ios/Pods/
+android/.gradle/
+android/app/build/
+*.keystore
+
+# Python
+__pycache__/
+.venv/
+
+# General
+.DS_Store
+.idea/
+.vscode/
