@@ -4,24 +4,24 @@
 [Oo]bj/
 [Bb]uild/
 *.unitypackage
-ECHO is off.
+
 # Unreal
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
-ECHO is off.
+
 # Node / React Native / Mobile
 node_modules/
 ios/Pods/
 android/.gradle/
 android/app/build/
 *.keystore
-ECHO is off.
+
 # Python
 __pycache__/
 .venv/
-ECHO is off.
+
 # General
 .DS_Store
 .idea/
