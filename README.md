@@ -89,14 +89,14 @@ cd funky-mallow-marketplace-
 ```mermaid
 flowchart LR
   BB["Buildbox Prototype"] --> U{"Engine Migration"}
-  U -->|Unity (C\#)| UNITY["Unity Project"]
-  U -->|Unreal (C\+\+)| UNREAL["Unreal Project"]
+  U --> UNITY["Unity (C#) Project"]
+  U --> UNREAL["Unreal (C++) Project"]
   UNITY --> RN["React Native / Native Bridges"]
   UNREAL --> RN
-  RN --> API["Backend APIs (REST/GraphQL)"]
-  API --> DB[("Supabase / Postgres")]
-  API --> QN["QNDMBS Wallet/Rewards"]
-  QN --> ANA["Analytics (Amplitude/Mixpanel)"]
+  RN --> API["Backend APIs (REST / GraphQL)"]
+  API --> DB["Supabase / Postgres"]
+  API --> QN["QNDMBS Wallet / Rewards"]
+  QN --> ANA["Analytics (Amplitude / Mixpanel)"]
   RN --> QA["QA: TestFlight / Play Console"]
   QA --> STORES["App Store / Google Play"]
   ANA --> DASH["Stakeholder Dashboards"]
